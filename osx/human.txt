@@ -1,0 +1,6 @@
+Install
+http://sdkman.io/
+sdk install java
+
+Install
+https://github.com/creationix/nvm
