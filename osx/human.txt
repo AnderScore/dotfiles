@@ -4,3 +4,12 @@ sdk install java
 
 Install
 https://github.com/creationix/nvm
+
+Zsh
+https://github.com/robbyrussell/oh-my-zsh
+
+VSCode
+https://code.visualstudio.com/
+https://marketplace.visualstudio.com/items?itemName=ria.elastic
+https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
